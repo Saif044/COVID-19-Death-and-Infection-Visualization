@@ -13,3 +13,7 @@ This project visualizes COVID-19 death and infection rates using an interactive 
 
 ## Objective
 To offer an analytical tool that helps users understand COVID-19 trends through clean, insightful, and dynamic visualizations.
+
+
+## Overview of the Dashboard
+<img src="Covid Dashboard.jpg" alt="Ride Patterns Dashboard" width="600">
